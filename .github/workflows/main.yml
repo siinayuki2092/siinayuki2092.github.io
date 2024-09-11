@@ -1,0 +1,36 @@
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 检出代码
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # 设置 Node.js 版本并安装 Node.js
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18.x'  # 你可以根据需要调整 Node.js 的版本
+
+    # 安装 Yarn
+    - name: Install Yarn
+      run: npm install -g yarn
+
+    # 安装项目依赖
+    - name: Install dependencies
+      run: yarn install
+
+    # 启动项目
+    - name: Run development server
+      run: yarn bulid
