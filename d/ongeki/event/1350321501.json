@@ -1,0 +1,1 @@
+{"dataName":"event1350321501","Name":{"id":"1350321501","str":"ボスロック報酬：クライノイド"},"EventType":"UnlockBossLockEarly","Event":{"@xsi:type":"EventUnlockBossLockEarly","EventType":"UnlockBossLockEarly","MusicList":{"MusicStringID":[{"id":"644","str":"クライノイド","Value":{"id":"644","str":"クライノイド"}},{"id":"643","str":"無敵☆moment","Value":{"id":"643","str":"無敵☆moment"}}]}}}

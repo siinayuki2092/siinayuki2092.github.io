@@ -1,0 +1,1 @@
+{"dataName":"ticket000000","name":{"id":"0","str":"使用しない"},"isMoney":"false","creditNum":"0","ticketKind":{"id":"0","str":"None"},"areaPercent":"100","charaMagnification":"100","maxCount":"0","detail":"チケットを使用しません","filename":"UI_CMN_Tix_Icon_NoTicket","ticketEvent":{"id":"1","str":"無期限常時解放"},"priority":"0"}

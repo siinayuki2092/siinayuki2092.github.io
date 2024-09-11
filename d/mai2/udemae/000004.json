@@ -1,0 +1,1 @@
+{"dataName":"udemae000004","disable":"false","name":{"id":"4","str":"初段"},"border":"300","rate":"1000","winBase":"50","loseBase":"5","rateDiff":"1","coeffcient":"0.01","loseAdjust":"-1","npcAchieve":"935000","npcFluctuation":"30000","npcDifficulty":{"id":"2","str":"Expert"},"udemaeBoss":{"id":"0","str":"条件なし"}}

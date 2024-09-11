@@ -1,0 +1,1 @@
+{"dataName":"gameTable000008","name":{"id":"8","str":"外字テーブル","data":null},"tableType":"8","memoText":"str0 置換する文字(UTF8)\nvalue0 置換前文字のUTF16コードの10進数\nvalue0 置換後文字のUTF16コードの10進数","records":{"GameTableRecordData":{"type":"0","valueSet":{"str0":"|","value0":"124","value1":"166","value2":"0","value3":"0"}}}}

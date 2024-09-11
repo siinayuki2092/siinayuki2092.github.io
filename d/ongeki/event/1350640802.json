@@ -1,0 +1,1 @@
+{"dataName":"event1350640802","Name":{"id":"1350640802","str":"楽曲解禁：Selenadia"},"EventType":"UnlockMusic","Event":{"@xsi:type":"EventUnlockMusic","EventType":"UnlockMusic","MusicList":{"MusicStringID":[{"id":"740","str":"Selenadia","Value":{"id":"740","str":"Selenadia"}},{"id":"8089","str":"怨撃","Value":{"id":"8089","str":"怨撃"}}]}}}

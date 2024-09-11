@@ -1,0 +1,1 @@
+{"dataName":"event1350641502","Name":{"id":"1350641502","str":"ボスロック報酬：Selenadia"},"EventType":"UnlockBossLockEarly","Event":{"@xsi:type":"EventUnlockBossLockEarly","EventType":"UnlockBossLockEarly","MusicList":{"MusicStringID":[{"id":"740","str":"Selenadia","Value":{"id":"740","str":"Selenadia"}},{"id":"8089","str":"怨撃","Value":{"id":"8089","str":"怨撃"}}]}}}

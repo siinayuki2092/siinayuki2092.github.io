@@ -1,0 +1,1 @@
+{"dataName":"event1350521503","Name":{"id":"1350521503","str":"ボスロック報酬：ウサテイ"},"EventType":"UnlockBossLockEarly","Event":{"@xsi:type":"EventUnlockBossLockEarly","EventType":"UnlockBossLockEarly","MusicList":{"MusicStringID":[{"id":"267","str":"ウサテイ","Value":{"id":"267","str":"ウサテイ"}},{"id":"444","str":"蛙石","Value":{"id":"444","str":"蛙石"}}]}}}
