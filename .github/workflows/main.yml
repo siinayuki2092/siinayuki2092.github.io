@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Node.js Build
 
 on:
   push:
@@ -31,6 +31,6 @@ jobs:
     - name: Install dependencies
       run: yarn install
 
-    # 启动项目
-    - name: Run development server
-      run: yarn bulid
+    # 构建项目
+    - name: Build project
+      run: yarn build
